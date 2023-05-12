@@ -1,0 +1,12 @@
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\bin\Debug\net6.0\MovieManagementLibrary.deps.json
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\bin\Debug\net6.0\MovieManagementLibrary.dll
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\bin\Debug\net6.0\MovieManagementLibrary.pdb
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.csproj.AssemblyReference.cache
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.AssemblyInfoInputs.cache
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.AssemblyInfo.cs
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.csproj.CoreCompileInputs.cache
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.dll
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\obj\Debug\net6.0\refint\MovieManagementLibrary.dll
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.pdb
+E:\Practice\MovieManagementCQRSDemo\MovieManagementCQRSDemo\MovieManagementLibrary\obj\Debug\net6.0\ref\MovieManagementLibrary.dll
